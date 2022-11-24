@@ -3,7 +3,8 @@ FIXES:
 2. able to run RunnerTest in IntelliJ;
 3. updated latest firefox/chrome drivers;
 4. pom.xml updated: added lombok-dependency; `mvn clean test`
-5. Java-8 - TBD, cucumber - tbd, etc - tbd
+5. Java-11, cucumber-4.8.1(as-was), appium-7.6.0 etc - tbd
+6. ngwebdriver is for AngularJS apps - pom.xml:70 - can be completely removed;
 
 ### selenium-cucumber-java
 
