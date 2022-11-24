@@ -1,3 +1,10 @@
+FIXES:
+1. able to run separate-feature in IntelliJ: Run-Configuration: clean test-compile -> build;
+2. able to run RunnerTest in IntelliJ;
+3. updated latest firefox/chrome drivers;
+4. pom.xml updated: added lombok-dependency; `mvn clean test`
+5. Java-8 - TBD, cucumber - tbd, etc - tbd
+
 ### selenium-cucumber-java
 
 This repository contains a collection of sample `selenium-cucumber-java` projects and libraries that demonstrate how to
